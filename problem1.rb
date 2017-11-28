@@ -1,1 +1,1 @@
-puts "Wassup World"
+puts 'wat'
