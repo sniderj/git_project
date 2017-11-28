@@ -1,4 +1,1 @@
-puts 'wat"
-bfhajs
-
-"ffds"
+puts "hello"
